@@ -32,3 +32,4 @@ with conn.cursor() as cur:
 conn.commit()
 conn.close()
 print("\nAnalytics layer ready!")
+
